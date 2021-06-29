@@ -19,7 +19,9 @@ Do you want to know more about me? 😄
 
 You can contact me here:
 https://wa.link/02lwxl
+
 facundobettella@outlook.com
+
 linkedin.com/in/facundo-bettella-iunnissi-dev/
 
 
