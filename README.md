@@ -2,7 +2,7 @@
 
 ### Hi there! I'm Facundo Bettella Iunnissi👋
 
-As a Psychologist, i learned the value of expression, the particular logic of each person, and the productive importance of group dynamics.
+As a Psychologist, I learned the value of expression, the particular logic of each person, and the productive importance of group dynamics.
 As a full stack developer, I understood the importance of technology in the active transformation of society. Also as through some lines of code together with applied creativity we can build entire worlds.
 
 Now, who I am? 
