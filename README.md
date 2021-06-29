@@ -16,6 +16,7 @@ JavaScript TypeScript HTML CSS React Redux Node.Js Express.Js PostgreSQL
 
 
 Do you want to know more about me? 😄
+
 You can contact me here:
 https://wa.link/02lwxl
 facundobettella@outlook.com
