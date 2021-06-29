@@ -1,4 +1,4 @@
-https://media.giphy.com/media/m5oQabBdoOye4/giphy.gif
+<!-- https://media.giphy.com/media/m5oQabBdoOye4/giphy.gif -->
 
 ### Hi there, I'm Facundo Bettella Iunnissi!👋
 
