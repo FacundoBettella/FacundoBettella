@@ -10,9 +10,7 @@ A restless person with the ability to adapt to change, always willing to learn f
 My Favorite Axiom: "When One Teaches, Two Learn" -Robert A. Heinlein.
 
 > Lenguages and Tools:
-JavaScript TypeScript HTML CSS React Redux
-
-Node.Js Express.Js PostgreSQL 
+JavaScript TypeScript HTML CSS React Redux Node.Js Express.Js PostgreSQL 
 
 🌱 I’m currently learning ... SASS and React Native
 
