@@ -1,15 +1,16 @@
    ![me](https://media.giphy.com/media/m5oQabBdoOye4/giphy.gif)
 
-### Hi there! I'm Facundo Bettella Iunnissi👋
+### Hola! Mi nombre es Facundo Bettella Iunnissi 👋
 
-As a Psychologist, I learned the value of expression, the particular logic of each person, and the productive importance of group dynamics.
-As a full stack developer, I understood the importance of technology in the active transformation of society. Also as through some lines of code together with applied creativity we can build entire worlds.
+Como Psicólogo aprendí el valor de la expresión, la lógica particular de cada persona, y la importancia productiva de la dinámica de grupos.
+Como Full stack developer entendí la importancia de la tecnología en la transformación activa de la sociedad. También como mediante algunas líneas de código junto a la creatividad aplicada podemos construir mundos enteros.
 
-Now, who I am? 
-A restless person with the ability to adapt to change, always willing to learn from others and then be able to transmit knowledge.
-My Favorite Axiom: "When One Teaches, Two Learn" -Robert A. Heinlein.
+Ahora bien, ¿Quién soy?
+Una persona inquieta y con capacidad para adaptarme al cambio, siempre dispuesto a aprender de los demás para luego poder transmitir el conocimiento.
+Mi axioma favorito: "When one teaches, two learn" -Robert A. Heinlein.
 
-> Lenguages and Tools: 
+
+> Lenguajes y herramientas: 
 JavaScript 
 TypeScript 
 HTML 
@@ -19,12 +20,12 @@ Redux Node.Js
 Express.Js 
 PostgreSQL 
 
-🌱 I’m currently learning SASS and React Native ⏫
+🌱 Estoy capacitandome en SASS y React Native ⏫
 
 
-### Do you want to know more about me? 😄
+### ¿Querés saber más sobre mi? 😄
 
-  You can contact me here 🌎:
+  Podés encontrarme por aquí🌎:
 
   https://wa.link/02lwxl
 
