@@ -15,6 +15,7 @@ JavaScript
 TypeScript 
 HTML 
 CSS 
+Figma
 React 
 Redux Node.Js 
 Express.Js 
