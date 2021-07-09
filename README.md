@@ -1,4 +1,4 @@
- <img src="https://cladera.org/infografias/images/tecedu/dribbble-shot_6.gif" alt="Hi!" width="410" justify-content: "center"/>
+ <img src="https://cladera.org/infografias/images/tecedu/dribbble-shot_6.gif" alt="Hi!" width="410" justifyContent: "center"/>
 
 ### Hola! Mi nombre es Facundo Bettella Iunnissi 👋
 
