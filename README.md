@@ -1,6 +1,7 @@
+ <div align="center">
  <img src="https://cladera.org/infografias/images/tecedu/dribbble-shot_6.gif" alt="Hi!" width="410" 
-  style="display:flex"    style="justify-content:center"/>
-
+  style="display:flex" style="justify-content:center"/>
+</div>
 ### Hola! Mi nombre es Facundo Bettella Iunnissi 👋
 
 Como Psicólogo aprendí el valor de la expresión, la lógica particular de cada persona, y la importancia productiva de la dinámica de grupos.
