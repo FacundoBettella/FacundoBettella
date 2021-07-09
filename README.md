@@ -20,7 +20,7 @@ Mi axioma favorito: "When one teaches, two learn" -Robert A. Heinlein.
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40"   style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
- <img src="https://image.pngaaa.com/875/2507875-small.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fdev117uday%2Feverything-you-need-in-react-js-1akj&psig=AOvVaw1NCnjRv1pw1Qh8DGdfjChE&ust=1625957798502000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPD4zPmK1_ECFQAAAAAdAAAAABAJ" alt="react" height="40" style="vertical-align:top; margin:4px">
  <img src="https://i0.wp.com/img2.pngio.com/redux-react-npm-state-management-png-573x572px-redux-area-redux-png-290_290.jpg" alt="redux" height="40" style="vertical-align:top; margin:4px"> 
   <img src="https://e7.pngegg.com/pngimages/431/965/png-clipart-figma-designer-computer-icons-material-design-design-rectangle-poster.png" alt="figma" height="40" style="vertical-align:top; margin:4px">
  <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" alt="SASS" height="40" style="vertical-align:top; margin:4px">
