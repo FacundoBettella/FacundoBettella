@@ -4,7 +4,7 @@
 </div>
 
 
-### Hola! Mi nombre es Facundo Bettella Iunnissi 👋
+## Hola! Mi nombre es Facundo Bettella Iunnissi 👋
 
 Como Psicólogo aprendí el valor de la expresión, la lógica particular de cada persona, y la importancia productiva de la dinámica de grupos.
 Como Full stack developer entendí la importancia de la tecnología en la transformación activa de la sociedad. También como mediante algunas líneas de código junto a la creatividad aplicada podemos construir mundos enteros.
@@ -15,7 +15,7 @@ Una persona inquieta y con capacidad para adaptarme al cambio, siempre dispuesto
 Mi axioma favorito: "When one teaches, two learn" -Robert A. Heinlein.
 
 
-## > 🧰 Lenguajes y herramientas: 
+### 🧰 Lenguajes y herramientas: 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40"   style="vertical-align:top; margin:4px">
@@ -28,10 +28,12 @@ Mi axioma favorito: "When one teaches, two learn" -Robert A. Heinlein.
   <img src="https://miro.medium.com/max/2000/1*3zADeX-f3kiPritXGxEFgw.png" alt="postgreSQL" height="40" style="vertical-align:top; margin:4px"> 
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYg_FBiB0q-O0Z2WpI18qUXsfBjRamOD1HLevbBlEurTsrLKVfeAXGM1wKFZU2IdpkHHU&usqp=CAU" alt="postgreSQL" height="40" style="vertical-align:top; margin:4px"> 
 </p>
-                                                                                                                          
+                
+                
 ### ¿Querés saber más sobre mi? 😄
 
-  Podés encontrarme por aquí🌎:
+
+ #### Podés encontrarme por aquí🌎:
 
   https://wa.link/02lwxl
 
