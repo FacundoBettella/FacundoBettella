@@ -1,7 +1,9 @@
  <div align="center">
- <img src="https://cladera.org/infografias/images/tecedu/dribbble-shot_6.gif" alt="Hi!" width="410" height:"300" 
+ <img src="https://cladera.org/infografias/images/tecedu/dribbble-shot_6.gif" alt="Hi!" width="340" height:"280" 
   style="display:flex" style="justify-content:center"/>
 </div>
+
+
 ### Hola! Mi nombre es Facundo Bettella Iunnissi 👋
 
 Como Psicólogo aprendí el valor de la expresión, la lógica particular de cada persona, y la importancia productiva de la dinámica de grupos.
@@ -9,6 +11,7 @@ Como Full stack developer entendí la importancia de la tecnología en la transf
 
 Ahora bien, ¿Quién soy?
 Una persona inquieta y con capacidad para adaptarme al cambio, siempre dispuesto a aprender de los demás para luego poder transmitir el conocimiento.
+
 Mi axioma favorito: "When one teaches, two learn" -Robert A. Heinlein.
 
 
@@ -16,14 +19,12 @@ Mi axioma favorito: "When one teaches, two learn" -Robert A. Heinlein.
 JavaScript 
 TypeScript 
 HTML 
-CSS 
+SASS
 Figma
 React 
 Redux Node.Js 
 Express.Js 
 PostgreSQL 
-
-🌱 Estoy capacitandome en SASS y React Native ⏫
 
 
 ### ¿Querés saber más sobre mi? 😄
