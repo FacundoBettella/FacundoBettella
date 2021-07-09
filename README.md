@@ -24,7 +24,7 @@ Mi axioma favorito: "When one teaches, two learn" -Robert A. Heinlein.
  <img src="https://www.cloudsavvyit.com/p/uploads/2021/02/99128fa6.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="redux" height="40" style="vertical-align:top; margin:4px"> 
   <img src="https://e7.pngegg.com/pngimages/431/965/png-clipart-figma-designer-computer-icons-material-design-design-rectangle-poster.png" alt="figma" height="40" style="vertical-align:top; margin:4px">
  <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" alt="SASS" height="40" style="vertical-align:top; margin:4px">
- <img src="https://w7.pngwing.com/pngs/493/735/png-transparent-node-js-javascript-express-js-mongodb-github-github-angle-text-logo-thumbnail.png" alt="nodeExpress" height="40" style="vertical-align:top; margin:4px"> 
+ <img src="https://i.pinimg.com/564x/49/eb/b3/49ebb3a19141d6eb3a71fadb1929336a.jpg" height="40" style="vertical-align:top; margin:4px"> 
   <img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" alt="postgreSQL" height="40" style="vertical-align:top; margin:4px"> 
 </p>
                                                                                                                           
