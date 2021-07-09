@@ -23,7 +23,7 @@ Mi axioma favorito: "When one teaches, two learn" -Robert A. Heinlein.
  <img src="https://image.pngaaa.com/875/2507875-small.png" alt="react" height="40" style="vertical-align:top; margin:4px">
  <img src="https://i0.wp.com/img2.pngio.com/redux-react-npm-state-management-png-573x572px-redux-area-redux-png-290_290.jpg" alt="redux" height="40" style="vertical-align:top; margin:4px"> 
   <img src="https://e7.pngegg.com/pngimages/431/965/png-clipart-figma-designer-computer-icons-material-design-design-rectangle-poster.png" alt="figma" height="40" style="vertical-align:top; margin:4px">
- <img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" alt="figma" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" alt="SASS" height="40" style="vertical-align:top; margin:4px">
  <img src="https://w7.pngwing.com/pngs/493/735/png-transparent-node-js-javascript-express-js-mongodb-github-github-angle-text-logo-thumbnail.png" alt="nodeExpress" height="40" style="vertical-align:top; margin:4px"> 
   <img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" alt="postgreSQL" height="40" style="vertical-align:top; margin:4px"> 
 </p>
