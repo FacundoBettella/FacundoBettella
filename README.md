@@ -21,7 +21,7 @@ Mi axioma favorito: "When one teaches, two learn" -Robert A. Heinlein.
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40"   style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  <img src="https://rosolutions.com.mx/blog/wp-content/uploads/2019/06/1-y6C4nSvy2Woe0m7bWEn4BA.png" alt="react" height="40" style="vertical-align:top; margin:4px">
- <img src="https://i0.wp.com/img2.pngio.com/redux-react-npm-state-management-png-573x572px-redux-area-redux-png-290_290.jpg" alt="redux" height="40" style="vertical-align:top; margin:4px"> 
+ <img src="https://www.cloudsavvyit.com/p/uploads/2021/02/99128fa6.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="redux" height="40" style="vertical-align:top; margin:4px"> 
   <img src="https://e7.pngegg.com/pngimages/431/965/png-clipart-figma-designer-computer-icons-material-design-design-rectangle-poster.png" alt="figma" height="40" style="vertical-align:top; margin:4px">
  <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" alt="SASS" height="40" style="vertical-align:top; margin:4px">
  <img src="https://w7.pngwing.com/pngs/493/735/png-transparent-node-js-javascript-express-js-mongodb-github-github-angle-text-logo-thumbnail.png" alt="nodeExpress" height="40" style="vertical-align:top; margin:4px"> 
