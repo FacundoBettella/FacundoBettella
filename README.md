@@ -4,9 +4,9 @@
 </div>
  -->
 
-## Me llamo Facundo Bettella Iunnissi y soy desarrollador FullStack 👋
+## Hi! I'm Facundo Bettella Iunnissi 👋
 
-I am a full stack developer, a person motivated to continue learning new technologies, and determined to face new challenges
+I'm full stack developer, a person motivated to continue learning new technologies, and determined to face new challenges
 
 My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 
