@@ -6,17 +6,11 @@
 
 ## Me llamo Facundo Bettella Iunnissi y soy desarrollador FullStack 👋
 
-Un poco sobre mi..
+I am a full stack developer, a person motivated to continue learning new technologies, and determined to face new challenges
 
-Como Psicólogo aprendí el valor de la expresión, la lógica particular de cada persona, y la importancia productiva de la dinámica de grupos.
-Como Fulltack developer entendí la importancia de la tecnología en la transformación activa de la sociedad. También que mediante algunas líneas de código, junto a la creatividad aplicada podemos construir mundos enteros.
+My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 
-Ahora bien, ¿Quién soy?
-Una persona inquieta y con capacidad para adaptarme al cambio, siempre dispuesto a aprender de los demás para luego poder transmitir el conocimiento aprendido.
-
-Mi axioma favorito: "When one teaches, two learn" -Robert A. Heinlein.
-
-### 🧰 Lenguajes y herramientas: 
+### 🧰 Languages ​​ and tools: 
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40"   style="vertical-align:top; margin:4px">
@@ -31,9 +25,9 @@ Mi axioma favorito: "When one teaches, two learn" -Robert A. Heinlein.
 </p>
     
     
-### ¿Querés saber más sobre mi? 😄
+### Do you want to know more about me? 😄
 
- #### Podés encontrarme por aquí🌎:
+ #### Where to find me🌎:
  
 facundobettella@outlook.com
  <p align="left"> 
