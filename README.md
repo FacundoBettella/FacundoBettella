@@ -6,7 +6,7 @@
 
 ## Hi! I'm Facundo Bettella Iunnissi 👋
 
-I'm full stack developer, a person motivated to continue learning new technologies, and determined to face new challenges
+I'm full stack developer, a person motivated to continue learning new technologies and determined to face new challenges
 
 My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 
@@ -24,9 +24,7 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYg_FBiB0q-O0Z2WpI18qUXsfBjRamOD1HLevbBlEurTsrLKVfeAXGM1wKFZU2IdpkHHU&usqp=CAU"  alt="postgreSQL" height="40" style="vertical-align:top; margin:4px"> 
 </p>
     
-    
-### Do you want to know more about me? 😄
-
+   
  #### Where to find me🌎:
  
 facundobettella@outlook.com
