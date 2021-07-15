@@ -10,7 +10,8 @@
 ```
 I'm full stack developer, 
 
-but more precisely, a person motivated to continue learning new technologies and determined to face new challenges 🚀
+but more precisely, a person motivated to continue learning new technologies 
+and determined to face new challenges 🚀
 
 My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 ```
