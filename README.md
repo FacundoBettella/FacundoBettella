@@ -6,11 +6,13 @@
 
 ## Hi! I'm Facundo Bettella Iunnissi 👋
 
-I'm full stack developer, a person motivated to continue learning new technologies and determined to face new challenges
+I'm full stack developer, a person motivated to continue learning new technologies and determined to face new challenges 🚀
 
 My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 
-### 🧰 Languages ​​ and tools: 
+### 🧰 Languages and tools 🛠️: 
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40"   style="vertical-align:top; margin:4px">
