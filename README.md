@@ -1,7 +1,7 @@
- <div align="center">
+<!--  <div align="center">
  <img src="https://media.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif" alt="Hi!" width="350"   
   style="display:flex; border-radius:10px"/>
-</div>
+</div> -->
 
 
 ## Hi! I'm Facundo Bettella Iunnissi 👋
