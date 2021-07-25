@@ -16,7 +16,7 @@ and determined to face new challenges 🚀
 My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 ```
 
-### 🧰 Currently I feel comfortable working with these languages and tools (but always learning something new) 🛠️: 
+### 🧰 Currently I feel comfortable working with these languages and tools: 
 
 </br>
 
@@ -66,6 +66,8 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 </p>
 
 </br>
+
+### Currenly training me in REACT NATIVE and TYPESCRIPT 🛠️
     
  #### Where to find me🌎:
  
@@ -75,13 +77,3 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
  <a href="facundobettella@outlook.com"><img src="https://cdn2.iconfinder.com/data/icons/clean-and-simple/153/Mail-512.png" width="35"/></a> 
 </p>
  
- 
-
-
-
-
- 
-
-
-
-
