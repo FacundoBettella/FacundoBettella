@@ -16,7 +16,7 @@ and determined to face new challenges 🚀
 My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 ```
 
-### 🧰 Languages and tools 🛠️: 
+### 🧰 Currently I feel comfortable working with these languages and tools (but always learning something new) 🛠️: 
 
 </br>
 
@@ -69,11 +69,11 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
     
  #### Where to find me🌎:
  
-facundobettella@outlook.com
  <p align="left"> 
  <a href="https://linkedin.com/in/facundo-bettella-iunnissi-dev/"><img src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png" width="35"/ margin="3"></a> 
  <a href="https://wa.link/02lwxl"><img src="https://i.pinimg.com/736x/92/44/d2/9244d2a6de6c585813fa2ca2214f8f3a.jpg" width="35"/></a> 
- </p>
+ <a href="facundobettella@outlook.com"><img src="https://cdn2.iconfinder.com/data/icons/clean-and-simple/153/Mail-512.png" width="35"/></a> 
+</p>
  
  
 
