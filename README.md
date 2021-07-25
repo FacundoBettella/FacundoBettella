@@ -67,7 +67,7 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 
 </br>
 
-### Currenly training me in REACT NATIVE and TYPESCRIPT 🛠️
+### Training me in REACT NATIVE and TYPESCRIPT 🛠️
     
  #### Where to find me🌎:
  
