@@ -72,8 +72,8 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
  #### Where to find me🌎:
  
  <p align="left"> 
- <a href="https://linkedin.com/in/facundo-bettella-iunnissi-dev/"><img src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png" width="35"/ margin="3"></a> 
- <a href="https://wa.link/02lwxl"><img src="https://i.pinimg.com/736x/92/44/d2/9244d2a6de6c585813fa2ca2214f8f3a.jpg" width="35"/></a> 
+ <a href="https://linkedin.com/in/facundo-bettella-iunnissi-dev/"><img src="https://esemanal.mx/revista/wp-content/uploads/2020/09/LinkedIn-Icon-squircle-1.png" width="35"/ margin="3"></a> 
+ <a href="https://wa.link/02lwxl"><img src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG95158.png" width="35"/></a> 
  <a href="facundobettella@outlook.com"><img src="https://cdn2.iconfinder.com/data/icons/clean-and-simple/153/Mail-512.png" width="35"/></a> 
 </p>
  
