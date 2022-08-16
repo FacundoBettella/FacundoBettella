@@ -20,15 +20,6 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 
 </br>
 
-<p align="center">
- <a href='https://code.visualstudio.com/'>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" width='45' style="vertical-align:top; margin:4px">
- </a>  
- 
- <a href='https://git-scm.com'/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" width='48' style="vertical-align:top; margin:4px">
- </a>  
-  
  <a href='https://www.javascript.com/'/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  alt="Javascript" height="40" width='48' style="vertical-align:top; margin:4px">
  </a>
@@ -41,16 +32,10 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
  <img src="https://www.cloudsavvyit.com/p/uploads/2021/02/99128fa6.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="redux" height="40"  style="vertical-align:top; margin:4px"> 
  </a>
  
- 
  <a href='https://www.figma.com'/>
   <img src="https://e7.pngegg.com/pngimages/431/965/png-clipart-figma-designer-computer-icons-material-design-design-rectangle-poster.png"  alt="figma" height="40" width="45"style="vertical-align:top; margin:4px">
  </a>
- 
- 
- <a href='https://sass-lang.com/'/>
-   <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" alt="SASS" height="40" style="vertical-align:top; margin:4px">
- </a>
- 
+
  <a href='https://nodejs.org/en'/>
   <img src="https://wallpapercave.com/wp/wp6606918.jpg" height="40" style="vertical-align:top; margin:4px"> 
  </a>
@@ -67,7 +52,7 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 
 </br>
 
-### Training me in Solidity 🛠️
+### Training me in Solidity and Java-Springboot 🛠️
     
  #### Where to find me🌎:
  
