@@ -16,7 +16,7 @@ and determined to face new challenges 🚀
 My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 ```
 
-### 🧰 Currently I feel comfortable working with these languages and tools: 
+### 🧰 In my current job I am working with these languages and tools:
 
 </br>
 
