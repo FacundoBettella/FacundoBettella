@@ -32,12 +32,16 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
  <img src="https://www.cloudsavvyit.com/p/uploads/2021/02/99128fa6.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="redux" height="40"  style="vertical-align:top; margin:4px"> 
  </a>
  
- <a href='https://www.figma.com'/>
-  <img src="https://e7.pngegg.com/pngimages/431/965/png-clipart-figma-designer-computer-icons-material-design-design-rectangle-poster.png"  alt="figma" height="40" width="45"style="vertical-align:top; margin:4px">
- </a>
-
  <a href='https://nodejs.org/en'/>
   <img src="https://wallpapercave.com/wp/wp6606918.jpg" height="40" style="vertical-align:top; margin:4px"> 
+ </a>
+ 
+  <a href='https://www.java.com/es/'/>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width: "100%" height="40" style="vertical-align:top; margin:4px"> 
+ </a>
+ 
+   <a href='https://spring.io/projects/spring-boot'/>
+  <img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot-600x300.png" alt="springboot" width: "100%" height="40" style="vertical-align:top; margin:4px"> 
  </a>
  
   <a href='https://www.postgresql.org'/>
@@ -52,7 +56,7 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 
 </br>
 
-### Training me in Solidity and Java-Springboot 🛠️
+### Training me in Solidity 🛠️
     
  #### Where to find me🌎:
  
