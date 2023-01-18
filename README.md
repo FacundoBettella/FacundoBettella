@@ -21,19 +21,10 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 </br>
 
  ```
-Javascript
-React
-Svelte
-Redux
-Node
-Express
-Sequelize
-Java
-Springboot
-postgres
-mysql
+Javascript - Typescript - React - Svelte - Redux
+Node - Express - Java - Springboot
+Sequelize - Postgres - MySQL
 ```
- 
 </br>
 
 ### Training me in NextJS & Solidity 🛠️
