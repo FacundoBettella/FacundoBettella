@@ -31,9 +31,8 @@ Sequelize - Postgres - MySQL
     
  #### Where to find me🌎:
  
- <p align="left"> 
- <a href="https://linkedin.com/in/facundo-bettella-iunnissi-dev/"><img src="https://esemanal.mx/revista/wp-content/uploads/2020/09/LinkedIn-Icon-squircle-1.png" width="35"/ margin="3"></a> 
- <a href="https://wa.link/02lwxl"><img src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG95158.png" width="35"/></a> 
- <a href="facundobettella@outlook.com"><img src="https://cdn2.iconfinder.com/data/icons/clean-and-simple/153/Mail-512.png" width="35"/></a> 
-</p>
- 
+  <p align="center"> 
+  <a href="https://linkedin.com/in/facundo-bettella-iunnissi-dev/"><img src="https://esemanal.mx/revista/wp-content/uploads/2020/09/LinkedIn-Icon-squircle-1.png" width="35"/ margin="3"></a> 
+  <a href="https://wa.link/02lwxl"><img src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG95158.png" width="35"/></a> 
+  <a href="facundobettella@outlook.com"><img src="https://cdn2.iconfinder.com/data/icons/clean-and-simple/153/Mail-512.png" width="35"/></a> 
+ </p>
