@@ -16,7 +16,7 @@ and determined to face new challenges 🚀
 My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 ```
 
-### 🧰 I currently work in EY -Ernst & Young- with these languages and tools
+### I currently work in EY -Ernst & Young- with these languages and tools 🧰
 
 </br>
 
