@@ -27,7 +27,7 @@ Sequelize - Postgres - MySQL
 ```
 </br>
 
-### Training me in NextJS & ANGULAR 🛠️
+### Training me in NextJS 🛠️
     
  #### Where to find me🌎:
  
