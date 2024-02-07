@@ -22,12 +22,12 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 
  ```
 Typescript - React - Redux
-Node - Express -
+Node - Express - Jest
 Sequelize - Postgres - MySQL
+Docker
 ```
 </br>
 
-### Training me in DOCKER 🛠️
     
  #### Where to find me🌎:
  
