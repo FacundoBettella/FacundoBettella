@@ -21,9 +21,9 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 </br>
 
  ```
-Typescript - React - Redux
-Node - Express - Fastify
-Jest - Postgres - Docker
+Typescript - React - Redux - Zustand
+Node - Express - Fastify - Nest
+Jest - Postgres - Docker - AWS
 ```
 </br>
 
