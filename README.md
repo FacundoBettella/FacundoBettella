@@ -23,6 +23,7 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
  ```
 Typescript - React - Redux - Zustand
 Node - Express - Fastify - Nest
+Python - FastAPI
 Jest - Postgres - Docker - AWS
 ```
 </br>
