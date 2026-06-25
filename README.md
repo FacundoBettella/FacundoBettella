@@ -2,32 +2,38 @@
  <img src="https://media.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif" alt="Hi!" width="350"   
   style="display:flex; border-radius:10px"/>
 </div> -->
-
-
 ## Hi! I'm Facundo Bettella Iunnissi 👋
-
-
 ```
-I'm full stack developer, 
-
-but more precisely, a person motivated to continue learning new technologies 
+I'm a Full Stack Developer & AI Engineer,
+but more precisely, a person motivated to continue learning new technologies
 and determined to face new challenges 🚀
-
 My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 ```
 
-### I currently work in EY with these languages and tools 🧰
+### A bit about me 💼
+```
+🧠 Full Stack Developer & AI Engineer
+📅 5 years
+🏢 Currently building software at EY
+⚙️  Working daily with Harness SDD
+```
 
-</br>
-
+### Tech I currently work with 🧰
  ```
+AI Engineering — LLMs, RAG, agents, prompt engineering
 Typescript - React - Redux - Zustand
 Node - Express - Fastify - Nest
+.NET / C#
 Python - FastAPI
 Jest - Postgres - Docker - AWS
+Harness Spec Driven Development
 ```
-</br>
 
+### Certifications & Badges 🎓
+ ```
+✅ AWS Certified Cloud Practitioner
+🏅 EY Badge — Solutions Architect
+```
     
  #### Where to find me🌎:
  
