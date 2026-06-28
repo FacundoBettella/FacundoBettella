@@ -13,7 +13,7 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 ### A bit about me 💼
 ```
 🧠 Full Stack Developer & AI Engineer
-📅 5 years
+📅 5 years working in tech
 🏢 Currently building software at EY
 ⚙️  Working daily with Harness SDD
 ```
