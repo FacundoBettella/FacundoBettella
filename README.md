@@ -4,7 +4,7 @@
 </div> -->
 ## Hi! I'm Facundo Bettella Iunnissi 👋
 ```
-I'm a Full Stack Developer & AI Engineer,
+I'm a Software Developer & AI Engineer,
 but more precisely, a person motivated to continue learning new technologies
 and determined to face new challenges 🚀
 My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
@@ -12,7 +12,7 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 
 ### A bit about me 💼
 ```
-🧠 Full Stack Developer & AI Engineer
+🧠 Software Developer & AI Engineer
 📅 5 years working in tech
 🏢 Currently building software at EY
 ⚙️  Working daily with Harness SDD
