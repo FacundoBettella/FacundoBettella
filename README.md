@@ -31,8 +31,9 @@ Harness Spec Driven Development
 
 ### Certifications & Badges 🎓
  ```
-✅ AWS Certified Cloud Practitioner
+🏅 AWS Certified Cloud Practitioner
 🏅 EY Badge — Solutions Architect
+🏅 HENRY - AI ENGINEERING
 ```
     
  #### Where to find me🌎:
