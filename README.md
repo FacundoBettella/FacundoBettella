@@ -13,20 +13,20 @@ My favorite axiom "When one teaches, two learn" -Robert A. Heinlein.
 ### A bit about me 💼
 ```
 🧠 Software Developer & AI Engineer
-📅 5 years working in tech
-🏢 Currently building software at EY
+📅 6 years working in tech
+🏢 Currently building software solutions at EY
 ⚙️  Working daily with Harness SDD
 ```
 
 ### Tech I currently work with 🧰
  ```
-AI Engineering — LLMs, RAG, agents, prompt engineering
 Typescript - React - Redux - Zustand
-Node - Express - Fastify - Nest
+Node - Express - Fastify - Nest - Jest
 .NET / C#
 Python - FastAPI
-Jest - Postgres - Docker - AWS
-Harness Spec Driven Development
+Postgres - Docker - AWS
+ReAct Agents, RAGs, Langchain, Langgraph, Langfuse
+Custom harness for Test-Driven Development (TDD)
 ```
 
 ### Certifications & Badges 🎓
